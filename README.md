@@ -85,6 +85,13 @@ We would rather you hear this from us than find it later:
 - **The server sees metadata** — who talks to whom and when, like almost every messenger. We do not build social graphs and we do not sell anything.
 - **Bot chats are not end-to-end encrypted**, by nature: a bot is a server.
 
+## Build on X2Chat
+
+Bots and mini apps run inside X2Chat, and the contracts are public: a Telegram-compatible Bot API and a
+mini-apps platform with a JS bridge, scoped permissions and a starter template.
+
+→ **[Developer documentation](https://github.com/FineAppleby/x2chat-docs)**
+
 ## Questions, bugs, ideas
 
 Open an [issue](../../issues) — we read all of them. Security reports: see [SECURITY.md](SECURITY.md).
